@@ -38,7 +38,7 @@ const quizData = [
         'Hypertrack Language',
         'Non of the above',
       ],
-      answer: '3rd',
+      answer: '1st',
     },
     {
       question: 'Which of the following generations of programming language executed code faster:',
