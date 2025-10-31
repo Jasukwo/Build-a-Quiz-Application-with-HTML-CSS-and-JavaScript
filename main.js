@@ -29,6 +29,17 @@ const quizData = [
       ],
       answer: '3rd',
     },
+
+    {
+      question: 'What is the full meaning of HTML',
+      options: [
+        'HyperText Markup Language',
+        'Hyper Language',
+        'Hypertrack Language',
+        'Non of the above',
+      ],
+      answer: '3rd',
+    },
     {
       question: 'Which of the following generations of programming language executed code faster:',
       options: ['4GLs', '3rd', '2nd', '1st'],
