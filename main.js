@@ -55,6 +55,17 @@ const quizData = [
       ],
       answer: 'Ambiguous',
     },
+
+    {
+      question: 'Who is the founder of NIIT:',
+      options: [
+        'Rajendra S. Pawar',
+        'Charles Mark',
+        'David Antony',
+        
+      ],
+      answer: 'Rajendra S. Pawar',
+    },
     {
       question: 'Which language had codes such as MOV, ADD, SUB',
       options: ['Java', 'Binary', 'Pascal', 'Assembly'],
