@@ -64,6 +64,12 @@ const quizData = [
       options: ['Pascal', 'C#', 'Basic', 'Fortran'],
       answer: 'Fortran',
     },
+
+     {
+      question: 'Which property is used to change the text color in CSS?:',
+      options: ['font-color', 'text-style', 'color', 'text-color'],
+      answer: 'color',
+    },
   ];
   
   const quizContainer = document.getElementById('quiz');
