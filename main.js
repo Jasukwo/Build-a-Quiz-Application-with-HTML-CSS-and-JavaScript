@@ -71,6 +71,15 @@ const quizData = [
       options: ['Java', 'Binary', 'Pascal', 'Assembly'],
       answer: 'Assembly',
     },
+
+        {
+      question: ' Which tag is used to create a hyperlink?',
+      options: ['<link>', '<a>', '<href>', 'hyper'],
+      answer: '<a>',
+    },
+
+
+
     {
       question: 'Which of the following had executes programming codes line by line, rather than the whole program',
       options: [
