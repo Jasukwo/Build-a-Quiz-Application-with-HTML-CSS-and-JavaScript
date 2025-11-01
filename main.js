@@ -59,6 +59,18 @@ const quizData = [
       ],
       answer: 'Interpreter',
     },
+
+     {
+      question: 'Which tag is used to define the largest heading in HTML',
+      options: [
+        '<Heading>',
+        '<h6>',
+        '<Head>',
+        '<H1>',
+      ],
+      answer: 'H1',
+    },
+
     {
       question: 'All the following are examples of third programming language except:',
       options: ['Pascal', 'C#', 'Basic', 'Fortran'],
